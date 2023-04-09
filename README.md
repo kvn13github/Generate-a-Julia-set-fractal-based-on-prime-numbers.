@@ -8,7 +8,7 @@ Just install the necessarry dependencies then run from the terminal, I've provid
 This is just a first tryout script, but there's lots I can do with it.
 For example instead of changing the parameters in the code itself, I could ask the user to input them.
 And of course I can expand to different fractals or prime number sets, ...
-Bud as this small script works perfectly as it should, I felt ready to upload it.
+But as this small script works perfectly as it should, I felt ready to upload it.
 
 [juliaPrimesFractal_2023-04-09_14-11-35-scrubbed](https://user-images.githubusercontent.com/113304088/230774239-62821bed-6652-423d-a2be-1c7e86595aab.gif)
 
