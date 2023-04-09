@@ -1,7 +1,7 @@
 # Generate-a-Julia-set-fractal-based-on-prime-numbers.
-Generate an animated Julia set fractal but based on prime numbers based on prime numbers.
+Generate an animated Julia set fractal but based on prime numbers.
 
-I was curious if I could make fractals with them
+I was curious if I could make fractals with them.
 
 Just install the necessarry dependencies then run from the terminal, I've provided a bunch of examples.
 
