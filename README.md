@@ -1,14 +1,15 @@
 # Generate-a-Julia-set-fractal-based-on-prime-numbers.
-Generate an animated Julia set fractal but based on prime numbers.
+Generate an animated Julia set fractal based on prime numbers.
 
 I was curious if I could make fractals with them.
 
 Just install the necessarry dependencies then run from the terminal, I've provided a bunch of examples.
 
-This is just a first tryout script, but there's lots I can do with it.
+This is just a first tryout script, but there's lots I can still do with it.
 For example instead of changing the parameters in the code itself, I could ask the user to input them.
 And of course I can expand to different fractals or prime number sets, ...
-But as this small script works perfectly as it should, I felt ready to upload it.
+
+But as this small script works perfectly as it should, I felt ready to upload it.  The example output gifs are also quick tests, I havent spent much time yet in trying to get real good looking results.
 
 [juliaPrimesFractal_2023-04-09_14-11-35-scrubbed](https://user-images.githubusercontent.com/113304088/230774239-62821bed-6652-423d-a2be-1c7e86595aab.gif)
 
