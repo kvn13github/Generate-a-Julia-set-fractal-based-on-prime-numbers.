@@ -3,7 +3,7 @@ Generate an animated Julia set fractal based on prime numbers.
 
 I was curious if I could make fractals with them.
 
-Just install the necessarry dependencies then run from the terminal, I've provided a bunch of examples.
+Just install the dependencies then run from the terminal, I've provided a bunch of examples.
 
 This is just a first tryout script, but there's lots I can still do with it.
 For example instead of changing the parameters in the code itself, I could ask the user to input them.
